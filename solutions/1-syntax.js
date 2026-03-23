@@ -1,3 +1,8 @@
 // BEGIN (write your solution here)
-jhjg
+export function getWeekends(dlina = 'long') {
+  if (dlina === 'short') {
+    return ['sat', 'sun'];
+  }
+  return ['saturday', 'sunday'];
+}
 // END
