@@ -8,5 +8,5 @@ const reverse = (massiv) => {
     }
 }
 
-export { reverse };
+export { reverse }; 
 // END
